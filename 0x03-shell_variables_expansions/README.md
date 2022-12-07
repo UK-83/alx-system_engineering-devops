@@ -73,4 +73,8 @@ BREATH and LOVE are environment variables
 The script should display the result, followed by a new line
 11. There are 10 types of people in the world -- Those who understand binary, and those who don'ti
 
-Create a script that prints all possible combinations of two letters, except oo.
+Create a script that prints all possible combinations of two letters, except oWrite a script that prints a number with two decimal places, followed by a new line.
+
+
+
+The number will be stored in the environment variable NUMo.
