@@ -27,4 +27,5 @@ Create a script that creates a new global variable.
 
 Name: BEST
 
-Value: School
+Value: School
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
