@@ -77,4 +77,5 @@ Create a script that prints all possible combinations of two letters, except oWr
 
 
 
-The number will be stored in the environment variable NUMo.
+The number will be stored in the environment variable NU
+Write a script that converts a number from base 10 to base 16.
